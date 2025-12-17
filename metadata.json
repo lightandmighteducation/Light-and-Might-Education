@@ -1,0 +1,7 @@
+{
+  "name": "Light & Might Education",
+  "description": "Premier educational consultancy for Study Abroad, MBBS Abroad, and Test Preparation. Mentoring Tomorrow's Leaders, Today.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
